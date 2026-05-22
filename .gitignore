@@ -2,3 +2,7 @@ node_modules
 dist
 .DS_Store
 *.log
+
+# Local assets — not published with the site
+linkedin-cover/
+resume/
